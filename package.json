@@ -1,8 +1,8 @@
 {
+  "homepage": "https://defiant1005.github.io/Dreamheads",
   "name": "dreamheads",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://defiant1005.github.io/Dreamheads",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -14,10 +14,10 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -b master -d build",
-        "start": "react-scripts start",
-        "build": "react-scripts build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
