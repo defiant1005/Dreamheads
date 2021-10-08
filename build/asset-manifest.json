@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dreamheads/static/css/main.f96e75f7.chunk.css",
+    "main.js": "/Dreamheads/static/js/main.468c537f.chunk.js",
+    "main.js.map": "/Dreamheads/static/js/main.468c537f.chunk.js.map",
+    "runtime-main.js": "/Dreamheads/static/js/runtime-main.60eee914.js",
+    "runtime-main.js.map": "/Dreamheads/static/js/runtime-main.60eee914.js.map",
+    "static/js/2.4d8b64e9.chunk.js": "/Dreamheads/static/js/2.4d8b64e9.chunk.js",
+    "static/js/2.4d8b64e9.chunk.js.map": "/Dreamheads/static/js/2.4d8b64e9.chunk.js.map",
+    "static/js/3.a4177cc5.chunk.js": "/Dreamheads/static/js/3.a4177cc5.chunk.js",
+    "static/js/3.a4177cc5.chunk.js.map": "/Dreamheads/static/js/3.a4177cc5.chunk.js.map",
+    "index.html": "/Dreamheads/index.html",
+    "static/css/main.f96e75f7.chunk.css.map": "/Dreamheads/static/css/main.f96e75f7.chunk.css.map",
+    "static/js/2.4d8b64e9.chunk.js.LICENSE.txt": "/Dreamheads/static/js/2.4d8b64e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60eee914.js",
+    "static/js/2.4d8b64e9.chunk.js",
+    "static/css/main.f96e75f7.chunk.css",
+    "static/js/main.468c537f.chunk.js"
+  ]
+}
